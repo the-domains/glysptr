@@ -1,4 +1,19 @@
-analytics: {}
+name: GlysPtr
+favicon: null
+layout_spectrum: 0.8851032999809831
+typography_spectrum: 0.7110069668851793
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
     - '#A690A4'
@@ -8,11 +23,6 @@ color:
     - '#E376B7'
   brandStrength: 0.32302046730183065
   lightness: 0.6203846808057278
-  rhythmicContrast: 0.09435312170535326
   saturation: 0.2314323210157454
-cta: {}
-layout_spectrum: 0.567567
-name: GlysPtr
-opengraph: {}
+  rhythmicContrast: 0.09435312170535326
 purpose: []
-typography_spectrum: 0.7110069668851793
